@@ -44,8 +44,8 @@ cd fitness_booking_api
 2. Create a virtual environment
 
 python -m venv venv
-source venv/bin/activate      # Linux / Mac
-venv\Scripts\activate         # Windows
+- source venv/bin/activate      # Linux / Mac
+- venv\Scripts\activate         # Windows
 
 
 3. Install dependencies
