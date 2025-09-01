@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "Alice",
+      "email": "alice@example.com",
+      "password": "password123"
+    },
+    {
+      "name": "Bob",
+      "email": "bob@example.com",
+      "password": "password456"
+    }
+  ],
+  "fitness_classes": [
+    {
+      "name": "Morning Yoga",
+      "dateTime": "2025-09-10T07:00:00",
+      "instructor": "John Doe",
+      "availableSlots": 15
+    },
+    {
+      "name": "HIIT Blast",
+      "dateTime": "2025-09-11T09:00:00",
+      "instructor": "Jane Smith",
+      "availableSlots": 20
+    }
+  ],
+  "bookings": [
+    {
+      "class_id": 1,
+      "client_name": "Alice",
+      "client_email": "alice@example.com"
+    }
+  ]
+}
